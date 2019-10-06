@@ -1,4 +1,4 @@
-# Catch The Ball 2-D Game Using OpenGL 
+# Catch The Egg 2-D Game Using OpenGL 
 
 The objective of this game is to catch the egg in a basket which is laid by hen without
 letting any eggs to hit the ground. Chicken moves back and forth along the line. User
